@@ -1,2 +1,2 @@
 # Bridge-BootCamp
-This repository contains a pdf which briefly explains about myself
+This repository contains all the projects and practicals that I have done in the Bootcamp tec sections.
